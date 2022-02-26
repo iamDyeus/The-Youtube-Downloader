@@ -1,3 +1,4 @@
+from logging import exception
 from pathlib import Path
 from tkinter import  Tk, Canvas, Entry, Text, Button, PhotoImage,filedialog,END,ttk,messagebox
 import os
@@ -38,7 +39,7 @@ def start_download():
     try:
         yt = YouTube(str(url_entry.get()))
     except:
-        messagebox.showerror("Error", "Invalid URL or Something else went wrong, try again later.") 
+        messagebox.showerror(exception, "Something went wrong, try again later.") 
         window.destroy()
 
     if download_format.get() == "MP4":

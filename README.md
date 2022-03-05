@@ -7,9 +7,10 @@
 # About Youtube Downloader  ⚡
 *Youtube Downloader is a simple but highly efficient Youtube Video Downloader, made completly using Python!*
 <br/>
-*its **Setup** can be Downloaded from [Here!](https://github.com/dump-account-iamdyeus/Setups/raw/main/SETUP-Youtube-downloader-v1.0.0.exe)*
+*its **Setup** can be Downloaded from Below!*
 <br/>
-<br/>
+<br/>[Download v1.0.1](https://github.com/iamDyeus/The-Youtube-Downloader/files/8190954/TYD-setup-v1.0.1.exe.zip)
+
 
 # Preview
 <p align="center">
